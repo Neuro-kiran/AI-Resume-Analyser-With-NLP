@@ -5,7 +5,7 @@
 • Please do ⭐ the repository, if it helped you in any way.
 
 ## Preview
-![Click HERE To View](https://github.com/KiranMarne/AI-Resume-Analyser-With-NLP/blob/main/Screenshot.png)
+![Click HERE To View](Screenshot.png)
 
 ## Authors
 
